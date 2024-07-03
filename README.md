@@ -1,6 +1,8 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Hello!&fontSize=70&fontColor=FF69B4&desc=I%20do%20:)&descAlignY=50&descAlign=50&descSize=20&fontAlignY=35&fontAlign=35" />
-
+<br>
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINHYEOKKK&layout=compact&langs_count=8&card_width=320&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -17,4 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<br>
+<br>
 ![자바자바자바칩](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
