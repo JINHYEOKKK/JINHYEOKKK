@@ -21,5 +21,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 줄 바꿈을 추가하여 간격 조정 -->
+<br>
+<br>
+<br>
+<!-- 줄 바꿈을 추가하여 간격 조정 -->
+<br>
+<br>
+<br>
 
 ![자바자바자바칩](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
