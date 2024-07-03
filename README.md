@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=환영합니다&fontSize=70" />
+https://github.com/anuraghazra/github-readme-stats
 
 <!--
 **JINHYEOKKK/JINHYEOKKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
