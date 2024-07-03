@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=환영합니다&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Hi:)&fontSize=70" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINHYEOKKK&layout=compact&langs_count=8&card_width=320&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
