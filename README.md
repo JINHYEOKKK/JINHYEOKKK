@@ -7,7 +7,6 @@
 <!-- 줄 바꿈을 추가하여 간격 조정 -->
 <br>
 <br>
-<br>
 
 ## 🔨 Once I've used
 
@@ -52,7 +51,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<br>
 <br>
 <br>
 
