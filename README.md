@@ -43,7 +43,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINHYEOKKK&layout=compact&langs_count=8&card_width=320&theme=black)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINHYEOKKK&layout=compact&langs_count=8&card_width=320&theme=github_dark)
 
 <!--
 **JINHYEOKKK/JINHYEOKKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
