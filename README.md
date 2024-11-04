@@ -6,7 +6,6 @@
 
 <!-- 줄 바꿈을 추가하여 간격 조정 -->
 <br>
-<br>
 
 ## 🔨 Once I've used
 
@@ -42,7 +41,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINHYEOKKK&layout=compact&langs_count=8&card_width=320&theme=default)](https://github.com/anuraghazra/github-readme-stats)
